@@ -1,0 +1,5 @@
+io\shivi\springsecurity\config\AppConfig.class
+io\shivi\springsecurity\config\SecurityWebApplicationInitializer.class
+io\shivi\springsecurity\config\SecurityConfig.class
+io\shivi\springsecurity\config\SpringMvcDispatcherServletInitializer.class
+io\shivi\springsecurity\controller\AppController.class
